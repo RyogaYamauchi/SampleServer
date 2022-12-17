@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ArXqKZoRTChmI7yaZNxYm1SYWelsU2K28rcoYWYJQ8=",
+  "Source": "SampleServer",
+  "BasePath": "_content/SampleServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
